@@ -123,20 +123,6 @@ pip install -r requirements.txt
 jupyter notebook Sales-Analysis-Forcasting-/
 ```
 
-
-## 📂 Project Structure
-```
-Sales-Analysis-Forcasting-/
-│
-├── data/                
-├── notebooks/           
-├── visuals/             
-├── models/              
-├── requirements.txt     
-└── README.md                      
-```
-
-
 ## 📊 Performance  
 
 - 🎯 Accurate forecasting  
